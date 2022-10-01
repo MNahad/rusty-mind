@@ -1,6 +1,11 @@
 [package]
 name = "rusty-mind"
 version = "0.1.0"
+authors = ["Mohammed Nawabuddin <MNahad@users.noreply.github.com>"]
+description = "Neural network inference engine"
+repository = ""
+readme = "README.md"
+license-file = "LICENSE"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
